@@ -3,11 +3,9 @@
 
 ### À propos du projet
 
-Projet académique réalisé en équipe dans le cadre du cours
-Gestion de la cybersécurité et des données personnelles.
+TrackAware est un projet académique collaboratif consacré à la protection des données personnelles et à la transparence des mécanismes de tracking.
 
-Ce dépôt est une version personnelle du projet collectif,
-destinée à présenter le travail réalisé et ses évolutions.
+Ce dépôt présente le projet réalisé en équipe ainsi que mes contributions et améliorations personnelles..
 
 ## 1. Présentation générale
 
