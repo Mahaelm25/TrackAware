@@ -1,6 +1,14 @@
 #  TrackAware 
 ###### Extension Chrome de transparence et de suivi local - Soyez conscient du tracking de vos données
 
+### À propos du projet
+
+Projet académique réalisé en équipe dans le cadre du cours
+Gestion de la cybersécurité et des données personnelles.
+
+Ce dépôt est une version personnelle du projet collectif,
+destinée à présenter le travail réalisé et ses évolutions.
+
 ## 1. Présentation générale
 
 TrackAware est une extension Chrome de prise de notes, conçue pour révéler les mécanismes invisibles de collecte de données utilisés dans de nombreux sites web et applications.
